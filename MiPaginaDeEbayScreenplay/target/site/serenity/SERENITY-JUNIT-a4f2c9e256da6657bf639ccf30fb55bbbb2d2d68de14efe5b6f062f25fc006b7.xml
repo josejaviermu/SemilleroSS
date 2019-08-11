@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Busqueda de producto en Ebay" skipped="0" tests="1" time="3.81" timestamp="2019-08-11 06:06:19"><testcase name="Busqueda de producto en Ebay exitosa"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+org.apache.commons.lang3.SystemUtils.isJavaVersionAtLeast(SystemUtils.java:1654)&#13;
+org.apache.commons.lang3.ClassUtils.isAssignable(ClassUtils.java:760)&#13;
+com.ebay.testing.tasks.EntrarALaPaginaDeEbay.En(EntrarALaPaginaDeEbay.java:25)&#13;
+com.ebay.testing.stepsdefinitions.BuscarEnEbayStepsDefinitions.joseEntroAEbay(BuscarEnEbayStepsDefinitions.java:34)&#13;
+✽.Jose entro a Ebay(src/test/java/com/ebay/testing/features/BuscarEnGoogle.feature:10)&#13;
+</system-err></testcase></testsuite>
