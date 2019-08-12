@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Login" skipped="0" tests="2" time="62.48" timestamp="2019-08-06 09:08:15"><testcase name="Entro al login de la pgina web coppel"><failure message="&#10;Expected: &quot;La contrase&amp;ntildea es incorrecta.&quot;&#10;     but: was &quot;La contraseña es incorrecta.&quot;" type="java.lang.AssertionError">
+Expected: "La contrase&amp;ntildea es incorrecta."
+     but: was "La contraseña es incorrecta."</failure><system-err>
+Expected: "La contrase&amp;ntildea es incorrecta."
+     but: was "La contraseña es incorrecta."&#13;
+com.coppel.testing.screenplaycoppel.stepdefinitions.LoginCoppelSteoDefinitions.elVerificaElResultadoEsperado(LoginCoppelSteoDefinitions.java:60)&#13;
+✽.El verifica el resultado esperado(src/test/resources/features/LoginCoppel.feature:10)&#13;
+</system-err></testcase></testsuite>
