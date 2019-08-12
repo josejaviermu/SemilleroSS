@@ -1,0 +1,635 @@
+<html lang="es"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://www.pardoschicken.pe/favicon-pardos.ico">
+<meta property="og:site_name" content="Pardos Chicken">
+<meta property="og:description" content="A brasa lo nuestro">
+<meta property="og:type" content="website">  
+
+<title>Pardos Chicken | A brasa lo nuestro</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.pardoschicken.pe/xmlrpc.php">
+<link href="https://www.pardoschicken.pe/wp-content/themes/pardos/sass/style-tecnostore.css" rel="stylesheet">
+<link href="https://www.pardoschicken.pe/wp-content/themes/pardos/css/alejandro.css?v7" rel="stylesheet">
+
+
+<!-- All in One SEO Pack 3.1.1 por Michael Torbert de Semper Fi Web Design[389,431] -->
+<link rel="canonical" href="https://www.pardoschicken.pe/">
+<!-- All in One SEO Pack -->
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Pardos Chicken » Feed" href="https://www.pardoschicken.pe/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pardos Chicken » RSS de los comentarios" href="https://www.pardoschicken.pe/comments/feed/">
+		<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" defer="" src="//stats.novelix.com.pe/piwik.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M7J8MVR"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.pardoschicken.pe\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.pardoschicken.pe/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+			<style type="text/css">
+				</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.pardoschicken.pe/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.pardoschicken.pe/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="https://www.pardoschicken.pe/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6" type="text/css" media="screen">
+<link rel="stylesheet" id="pardos-style-css" href="https://www.pardoschicken.pe/wp-content/themes/pardos/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider-css-css" href="https://www.pardoschicken.pe/wp-content/themes/pardos/js/flexslider.css?ver=2.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox-css-css" href="https://www.pardoschicken.pe/wp-content/themes/pardos/js/colorbox.css?ver=1.5.14" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-styles-css" href="https://www.pardoschicken.pe/wp-content/themes/pardos/js/jquery-ui-styles.css?ver=1.8" type="text/css" media="all">
+<link rel="stylesheet" id="sccss_style-css" href="https://www.pardoschicken.pe/?sccss=1&amp;ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-paginate-css" href="https://www.pardoschicken.pe/wp-content/plugins/wp-paginate/css/wp-paginate.css?ver=2.0.5" type="text/css" media="screen">
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-content/themes/pardos/js/jquery.flexslider.js?ver=2.2.2"></script>
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-content/themes/pardos/js/jquery.colorbox-min.js?ver=1.5.14"></script>
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-content/themes/pardos/js/twitter.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.pardoschicken.pe/wp-content/themes/pardos/js/code.js?ver=1.0"></script>
+<link rel="https://api.w.org/" href="https://www.pardoschicken.pe/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pardoschicken.pe/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pardoschicken.pe/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="shortlink" href="https://www.pardoschicken.pe/">
+<link rel="alternate" type="application/json+oembed" href="https://www.pardoschicken.pe/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pardoschicken.pe%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.pardoschicken.pe/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pardoschicken.pe%2F&amp;format=xml">
+<meta name="google-site-verification" content="FYF6DkAwLQsooaH_bSRc-DRM3a0JPVp9kibJjWhX-Ro"><link rel="canonical" href="https://www.pardoschicken.pe/">
+
+<link rel="canonical" href="https://www.pardoschicken.pe/">
+
+		<style type="text/css" id="wp-custom-css">
+			
+/*
+Puedes añadir tu propio CSS aquí.
+
+Haz clic en el icono de ayuda de arriba para averiguar más.
+*/
+
+
+  .wpcf7-validation-errors{
+    border: 2px solid #fff;
+    background-color: #b71b07 !important;
+    color: #fff;
+  }
+ .privacidad{
+	background-color: #b71b07;
+	color: white;
+}
+
+@media screen and (max-width: 512px) {
+	
+ul.header-ribbon.singleExcept:after {display: none;}
+ul.header-ribbon.singleExcept:before {display: none;}
+ul.header-ribbon.singleExcept {width: 100% !important; text-align: left !important ;right: 0 !important; padding-left: 20px;}
+ul.header-ribbon.singleExcept li {text-align: inherit !important;} 
+
+.contentExcept {padding-top: 75px;}
+
+}
+
+/*
+CAMBIOS BRENO CONTACT FORM
+*/
+
+/*
+Formulario CF7 a 2 columnas responsive
+*/
+#responsive-form{
+ max-width:600px /*-- change this to get your desired form width --*/;
+ margin:0 auto;
+        width:100%;
+}
+.form-row{
+ width: 100%;
+}
+.column-half, .column-full{
+ float: left;
+ position: relative;
+ padding: 0.65rem;
+ width:100%;
+ -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box
+}
+.clearfix:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+ 
+/**---------------- Media query ----------------**/
+@media only screen and (min-width: 48em) { 
+ .column-half{
+ width: 50%;
+ }
+}
+
+/**---------------- titulo en restaurantes ----------------**/
+
+.title-group3{
+margin-left: 45px;
+}
+
+.title-group2{
+border-left: 8px solid #222;
+color: #222;
+margin-top: 85px;
+margin-bottom: 1px;
+padding-left: 25px;
+position: relative;
+}
+
+.title-group2 .main-title2{
+    font-family: "Mohave";
+    font-size: 2.8em;
+    font-weight: bold;
+    letter-spacing: -2px;
+    line-height: 1em;
+    text-transform: capitalize;
+}
+
+.title-group2 .sub-title2{
+   font-size: 1em;
+}
+
+#caja_sanisidro {
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+box-sizing: border-box;
+background-color: #d8ecf7;
+border: 1px solid #afcde3;
+}
+
+
+/*Contact field width*/
+input[type="text"], input[type="search"], input[type="email"], input[type="tel"] {
+    width: 100%;
+}
+
+#karupa {
+ 
+background: white; 
+color: #ffffff;
+ 
+}
+		</style>
+		
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M7J8MVR');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  // tracker methods like "setCustomDimension" should be called before "trackPageView"
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.novelix.com.pe/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '4']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+
+<!-- AGREGAR AL CSS -->
+<style>
+	.home-navigation{
+		border-top-color: transparent!important;
+	}
+
+	
+	.botones_footer{
+		display: none;
+	}
+	
+	@media screen and (max-width: 730px){
+
+		.ico-wsap{
+			position: absolute;
+			top: 0;
+			transform: translateY(-100%);
+			height: auto;
+			bottom: auto;
+			margin: 0;
+			right: 0
+		}
+
+		.ico-wsap img{
+			display: block;
+		}
+
+		.botones_footer{
+			display: flex;
+			padding: 0 40px;
+			justify-content: space-evenly;
+		}	
+		.botones_footer a{
+			display: block;
+			width: 45%;
+			max-width: 179px
+		}
+		.botones_footer a img{
+			display: block;
+		}
+
+		.div_fixed{
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+			background: #1e1f21;
+			padding: 20px 0;
+			z-index: 99
+		}
+		.div_fixed.fixed_off{
+			position: relative;
+			bottom: auto;
+			padding: 0;
+			padding-bottom: 30px
+		}
+		.fixed_off .ico-wsap{
+			top: -40px;
+		}
+	}
+
+	@media screen and (max-width: 512px){
+		/*.botones_footer{
+			padding: 30px 0;
+			padding-top: 40px;
+		}*/
+	}
+
+</style>
+<!-- FIN CSS -->
+
+</head>
+
+<body class="home page-template page-template-template-home page-template-template-home-php page page-id-4 group-blog elementor-default">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7J8MVR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="delivery">
+	<div class="inner-circle">
+		<a href="#" class="close-button">Cerrar</a>
+		<div class="title-group">
+			<h1 class="main-title">Pardos delivery</h1>
+			<!--<h2 class="sub-title">Queremos estar siempre contigo por eso llevamos tu Pardos donde estés.</h2>-->
+		</div>
+
+		<p class="select-wrapper">
+			<select name="delivery-local" id="delivery-select">
+				<option value="">Encuentra nuestros restaurantes</option>
+			</select>
+		</p>
+		
+		<div class="delivery-result">
+			<h2></h2>
+			<p class="phone"></p>
+			<p class="dir"></p>
+			<center><a href="#" data-href="https://www.pardoschicken.pe/restaurantes/?id=" class="button border">Ver mapa</a></center>
+		</div>
+
+	</div>
+</div>
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner" data-url="https://www.pardoschicken.pe/wp-content/themes/pardos">
+		<div class="header-wrapper">
+
+			<h1 class="site-title">
+				<a href="https://www.pardoschicken.pe/" rel="home">Pardos Chicken</a>
+			</h1>
+
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<!-- <button class="menu-toggle">Primary Menu</button>-->
+				<a href="#" class="nav-toggle"><span></span></a>
+				<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li class="close-button"></li><li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35"><a href="#">Nuestra Carta</a>
+<ul class="sub-menu">
+	<li id="menu-item-2349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2349"><a href="https://pedidosweb.pardoschicken.pe/">Lima</a></li>
+	<li id="menu-item-2347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2347"><a href="https://www.pardoschicken.pe/carta-pardos-chicken-trujillo/">Trujillo</a></li>
+	<li id="menu-item-2348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2348"><a href="https://www.pardoschicken.pe/carta-pardos-chicken-chiclayo/">Chiclayo</a></li>
+	<li id="menu-item-2350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2350"><a href="https://www.pardoschicken.pe/carta-pardos-chicken-piura/">Piura</a></li>
+</ul>
+</li>
+<li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/promociones/">Promociones</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="/restaurantes/">Restaurantes</a></li>
+<li id="menu-item-2540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540"><a href="https://www.pardoschicken.pe/catering/">Catering</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+			
+			<!-- <div class="site-search">
+				<form role="search" method="get" class="search-form" action="">
+					<label>
+						<span class="screen-reader-text">Buscar:</span>
+						<input type="search" class="search-field" placeholder="Busca un Pardos" value="" name="s" title="Buscar:">
+					</label>
+				</form>
+			</div> -->
+
+			<!-- <ul class="site-share">
+				<li><a href="https://www.facebook.com/pardoschicken" target="_blank" class="icon-facebook"><span>Facebook</span></a></li>
+				<li><a href="http://instagram.com/pardoschicken" target="_blank" class="icon-instagram"><span>Instagram</span></a></li>
+				<li><a href="https://twitter.com/pardoschicken" target="_blank" class="icon-twitter"><span>Twitter</span></a></li>
+			</ul> -->
+
+			<div class="site-share">
+				<a href="https://www.pardoschicken.pe/appdelivery/"><img src="/wp-content/uploads/2019/07/app-anchoi.png"></a>
+				<img src="/wp-content/uploads/2019/07/phone-anchoi.png">
+			</div>
+
+
+			<!-- <div class="site-share">
+				<a href="https://www.pardoschicken.pe/appdelivery/">
+					<img class="ico-telf-1"  src="wp-content/uploads/2019/07/app.png">
+				</a>
+				
+					<img class="ico-telf-2"  src="/wp-content/uploads/2019/07/phone.png">
+				
+			</div> -->
+
+			<!-- <ul style="list-style: none;">
+				<li><a href="https://www.pardoschicken.pe/appdelivery/"><img style="width: 100%;    max-width: 85px;    margin-top: 30px;margin-left:30px" src="/wp-content/themes/pardos/img/ico-apph.png"></a>
+					<img style="width: 100%;    max-width: 120px;margin-top: 30px;margin-left: 30px;" src="/wp-content/themes/pardos/img/ico-telh.png"></li>
+
+			</ul> -->
+			
+						
+			<!-- <ul class="header-ribbon home-ribbon ">
+				<li style="font-size: 40px;"><a href="https://pedidosweb.pardoschicken.pe/">¡ORDENA AQUÍ!</a></li>
+				<li style="font-size: 40px;"><a href="https://pedidosweb.pardoschicken.pe/">¡ORDENA AQUÍ!</a></li>
+			</ul>	 -->
+
+			<div class="elige_experiencia">
+				<span class="txt_elige">ELIGE TU EXPERIENCIA:</span>
+				<a href="https://pedidosweb.pardoschicken.pe/" class="ordenas_aqui"><img src="/wp-content/uploads/2019/07/ordenadav2.png"></a><a href="https://www.pardoschicken.pe/reservas/" class="reserva_aqui"><img src="/wp-content/uploads/2019/07/reservav2.png"></a>
+			</div> 
+
+			<!-- 												
+			<ul class="header-ribbon home-ribbon ">
+				<li><a href="#delivery">Delivery</a></li>
+				<li><a href="https://www.pardoschicken.pe/reservas">Reservas</a></li>
+			</ul>
+			 -->
+
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content wrapper">
+				<style>
+			.sliderPrincipal{border: none !important;}
+			.sliderPrincipal li {position: relative;}
+			.sliderPrincipal li a {position: absolute; top:0; left: 0; right: 0; bottom: 0;}
+			.flex-direction-nav {display: none;}
+			.mobil {display: none;}
+			@media (max-width: 991px) {
+				.desk {display: none;}
+				.mobil {display: block;}
+				/* .header-ribbon.home-ribbon {top:120px; right: -63px !important;} */
+			}
+
+
+
+.page-template-template-home-php .site-header {
+    background: rgba(0, 0, 0, 0.45)!important;
+}
+
+@media screen and (max-width: 512px){
+
+ul.header-ribbon.singleExcept {
+    display: none!important;
+}
+
+}
+
+
+		</style>
+		<div id="primary" class="content-area full-width">
+			<main style="position: fixed; bottom: 0px; width: 100%; height: 100%; left: 0px; top: 0;" id="main" class="site-main" role="main">
+				<div class="flexslider sliderPrincipal desk">
+											<ul class="slides">
+														<li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+								<img src="https://www.pardoschicken.pe/wp-content/uploads/2019/07/home-min.jpg" alt="" draggable="false">
+								<a href="https://pedidosweb.pardoschicken.pe/promociones/c9869e40-d153-11e7-9710-bfd263b627e3/tu-eliges-con-gaseosa-15-lt"></a>
+								<!-- <h1 style="margin-top: 15px; display:none;"> </h1> -->
+					      <!-- <a style="position: absolute; top: 0; width: 100%; height: 100%; background-color: transparent;" href="http://www.pardoschicken.pe/carta/" class="button big textleft">Nuestra Carta</a> -->
+							</li>
+														<li class="" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
+								<img src="https://www.pardoschicken.pe/wp-content/uploads/2019/07/Home-carretillero-min.jpg" alt="" draggable="false">
+								<a href="https://pedidosweb.pardoschicken.pe/anticuchos-y-mollejitas/3ece33d0-8606-11e9-be20-1f44f27801ed/carretillero"></a>
+								<!-- <h1 style="margin-top: 15px; display:none;"> </h1> -->
+					      <!-- <a style="position: absolute; top: 0; width: 100%; height: 100%; background-color: transparent;" href="http://www.pardoschicken.pe/carta/" class="button big textleft">Nuestra Carta</a> -->
+							</li>
+													</ul>
+									<ol class="flex-control-nav flex-control-paging"><li><a class="flex-active">1</a></li><li><a class="">2</a></li></ol><ul class="flex-direction-nav"><li><a class="flex-prev" href="#">Previous</a></li><li><a class="flex-next" href="#">Next</a></li></ul></div>
+				<div class="flexslider sliderPrincipal mobil" style="">
+											<ul class="slides">
+														<li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+								<img src="https://www.pardoschicken.pe/wp-content/uploads/2019/07/movil-min.jpg" alt="" draggable="false">
+								<a href="https://pedidosweb.pardoschicken.pe/promociones/c9869e40-d153-11e7-9710-bfd263b627e3/tu-eliges-con-gaseosa-15-lt"></a>
+							</li>
+														<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
+								<img src="https://www.pardoschicken.pe/wp-content/uploads/2019/07/Home-Campaña-cell-min.jpg" alt="" draggable="false">
+								<a href="https://pedidosweb.pardoschicken.pe/anticuchos-y-mollejitas/3ece33d0-8606-11e9-be20-1f44f27801ed/carretillero"></a>
+							</li>
+													</ul>
+									<ol class="flex-control-nav flex-control-paging"><li><a class="flex-active">1</a></li><li><a>2</a></li></ol><ul class="flex-direction-nav"><li><a class="flex-prev" href="#">Previous</a></li><li><a class="flex-next" href="#">Next</a></li></ul></div>
+			</main><!-- #main -->
+			<nav class="home-navigation">
+				
+
+			</nav>
+		</div><!-- #primary -->
+		<script>(function($) {$('.sliderPrincipal').flexslider({animation: "fade", slideshowSpeed: 5000, animationSpeed: 1000, animationLoop: true, controlNav: true, pauseOnHover: false });})(jQuery);</script>
+
+	</div><!-- #content -->
+
+</div><!-- #page -->
+
+<!--?php#wp_footer(); ?-->
+
+
+<!-- <div style="bottom: -7px;
+    position: fixed;
+    display: block;
+    position: fixed;
+    margin-left: 75%;
+    /* left: 63px; */"><span><a target="_blank" href="https://api.whatsapp.com/send?phone=51989019986&amp;text="><img src="/wp-content/themes/pardos/img/iconows.png"></a></span>
+    </div> -->
+
+    <!-- <div class="ico-wsap"><span><a target="_blank" href="https://api.whatsapp.com/send?phone=51989019986&amp;text="><img src="/wp-content/themes/pardos/img/iconows.png?v1"></a></span></div> -->
+
+<!-- <footer id="" class="" role="contentinfo" style="position: relative; height: 70px;">
+		<div style="text-align: right;padding-right: 10%;"><a target="_blank" href="https://api.whatsapp.com/send?phone=51989019986&text="><img src="/wp-content/themes/pardos/img/iconows.png"></a></div>
+	</footer> -->
+<footer id="colophon" class="site-footer" role="contentinfo" style="position: relative;">
+
+	<!-- AGREGAR FOOTER -->
+	<div class="div_fixed" style="">
+	<div class="ico-wsap">
+			<span><a target="_blank" href="https://api.whatsapp.com/send?phone=51989019986&amp;text=">
+				<img src="/wp-content/themes/pardos/img/iconows.png?v1">
+				<!-- <img src="/wp-content/uploads/2019/07/pedidosWP.png?v1"> -->
+				
+			</a>
+		</span>
+	</div>
+	<div class="botones_footer">
+		<a href="https://pedidosweb.pardoschicken.pe/"><img src="/wp-content/uploads/2019/07/ordenadav2.png"></a>
+		<a href="https://www.pardoschicken.pe/reservas/"><img src="/wp-content/uploads/2019/07/reservav2.png"></a>	
+	</div>	
+</div>	<!-- FIN FOOTER -->
+
+
+		<div class="wrapper">
+			<div class="widget-area group">
+			 	<aside id="text-7" class="widget widget_text"><h3 class="widget-title">Pardos Chicken</h3>			<div class="textwidget"><ul id="menu-widget-1" class="menu">
+ 	<li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a href="/nosotros/#nuestra-historia">Historia</a></li>
+ 	<li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a href="/nosotros/#mision">Misión</a></li>
+ 	<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="/nosotros/#vision">Visión</a></li>
+ 	<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a href="/blog/">Blog</a></li>
+ 	<li id="menu-item-191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a href="/nosotros/#valores">Valores</a></li>
+ 	<li id="menu-item-191-1" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a href="/pardos-sostenible/" style="color: #4CAF50!important;">Pardos Sostenible</a></li>
+ 	<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="/politicas-de-privacidad/">Políticas de Privacidad</a></li>
+ 	<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a href="/libro-de-reclamaciones/">Libro de Reclamaciones</a> <img class="alignnone" style="vertical-align: middle;" src="/wp-content/uploads/2019/02/ICONO-LIBRO30.png"></li>
+</ul></div>
+		</aside><aside id="text-6" class="widget widget_text"><h3 class="widget-title">Nuestra Carta</h3>			<div class="textwidget"><ul id="menu-widget-2" class="menu col2">
+ 	<li id="menu-item-2274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2274"><a href="/promociones/">Promociones</a></li>
+ 	<li id="menu-item-2272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2272"><a href="https://pedidosweb.pardoschicken.pe/otras-especialidades">Otras Especialidades</a></li>
+ 	<li id="menu-item-2267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2267"><a href="https://pedidosweb.pardoschicken.pe/pardos-brasa">Pardos Brasa</a></li>
+ 	<li id="menu-item-2278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2278"><a href="https://pedidosweb.pardoschicken.pe/guarniciones">Guarniciones</a></li>
+ 	<li id="menu-item-2269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2269"><a href="https://pedidosweb.pardoschicken.pe/pardos-parrillero">Pardos Parrillero</a></li>
+ 	<li id="menu-item-2268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2268"><a href="https://pedidosweb.pardoschicken.pe/adicionales">Adicionales</a></li>
+ 	<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2271"><a href="https://pedidosweb.pardoschicken.pe/ensaladas">Ensaladas</a></li>
+ 	<li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2270"><a href="https://pedidosweb.pardoschicken.pe/bebidas">Bebidas</a></li>
+ 	<li id="menu-item-2273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2273"><a href="https://pedidosweb.pardoschicken.pe/anticuchos-y-mollejitas">Anticuchos y Mollejitas</a></li>
+ 	<li id="menu-item-2266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2266"><a href="https://pedidosweb.pardoschicken.pe/postres">Postres</a></li>
+ 	<li id="menu-item-2275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2275"><a href="https://pedidosweb.pardoschicken.pe/parrillas">Parrillas</a></li>
+ 	<li id="menu-item-2276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2276"><a href="/valores-nutricionales/">Valores Nutricionales</a></li>
+<li id="menu-item-2277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2276"><a href="/cartilla-alergenos/">Cartilla Alérgenos</a></li>
+</ul></div>
+		</aside><aside id="nav_menu-5" class="widget widget_nav_menu"><h3 class="widget-title">Servicios</h3><div class="menu-widget-4-container"><ul id="menu-widget-4" class="menu"><li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://www.pardoschicken.pe/catering/">Catering</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://www.pardoschicken.pe/celebra-tu-cumpleanos/">Celebra tu cumpleaños</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a href="https://pedidosweb.pardoschicken.pe/">Delivery</a></li>
+<li id="menu-item-2368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2368"><a href="/reservas/#">Reservas</a></li>
+</ul></div></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Contáctanos</h3>			<div class="textwidget"><ul>
+<li><a href="/contactanos/">Escríbenos</a></li><li>
+</li><li><a href="/trabaja-con-nosotros">Trabaja con nosotros</a></li>
+<li style="color: #d1d1d1!important;">Encuentra un pardos:</li>
+<li>
+<div class="store-selector">
+<select><option value="0">Seleccionar</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-aeropuerto">Pardos Chicken Aeropuerto</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-bellavista">Pardos Chicken Bellavista</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-benavides">Pardos Chicken Benavides</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-caminos-del-inca">Pardos Chicken Caminos del Inca</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-canada">Pardos Chicken Canadá</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-centro-civico">Pardos Chicken Centro Cívico</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-centro-historico-de-lima">Pardos Chicken Centro Histórico de Lima</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-chiclayo">Pardos Chicken Chiclayo</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-chorrillos">Pardos Chicken Chorrillos</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-garzon">Pardos Chicken Garzón</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-jockey-plaza">Pardos Chicken Jockey Plaza</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-la-molina">Pardos Chicken La Molina</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-larcomar">Pardos Chicken Larcomar</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-magdalena">Pardos Chicken Magdalena</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-trujillo">Pardos Chicken Mall Aventura Plaza Trujillo</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-mega-plaza">Pardos Chicken MegaPlaza</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-open-plaza-piura">Pardos Chicken Piura</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-plaza-san-martin">Pardos Chicken Plaza San Martín</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-plaza-san-miguel">Pardos Chicken Plaza San Miguel</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-pueblo-libre">Pardos Chicken Pueblo Libre</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-real-plaza-primavera">Pardos Chicken Real Plaza Primavera</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-royal-plaza">Pardos Chicken Royal Plaza</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-salaverry">Pardos Chicken Salaverry</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-san-borja">Pardos Chicken San Borja</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-san-isidro">Pardos Chicken San Isidro</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-san-juan-de-lurigancho">Pardos Chicken San Juan de Lurigancho</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-san-miguel">Pardos Chicken San Miguel</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-santa-anita">Pardos Chicken Santa Anita</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-santa-cruz">Pardos Chicken Santa Cruz</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-surco">Pardos Chicken Surco</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-surquillo">Pardos Chicken Surquillo</option><option value="https://www.pardoschicken.pe/restaurantes/pardos-chicken-trujillo-real-plaza">Pardos Chicken Trujillo Real Plaza</option></select>
+</div>
+</li>
+</ul>
+<ul class="social-footer">
+<li><a href="https://www.facebook.com/pardoschicken" target="_blank" class="icon-facebook" rel="noopener noreferrer"></a></li>
+<li><a href="https://twitter.com/pardoschicken" target="_blank" class="icon-twitter" rel="noopener noreferrer"></a></li>
+<li><a href="https://instagram.com/pardoschicken/" target="_blank" class="icon-instagram" rel="noopener noreferrer"></a></li>
+</ul>
+
+<div class="row">
+<div class="row">
+<div class="col-md-12">
+<!--<ul>
+<li><a href="/trabaja-con-nosotros">Trabaja con nosotros</a></li>
+</ul>--></div></div></div></div>
+		</aside>			</div>				
+		</div>
+		<div style="display: none;position: absolute;bottom: 27%; left: 41%;">
+			<a href="https://www.pardoschicken.pe/libro-de-reclamaciones/"><img style="width: 145px;" src="" alt=""></a>
+		</div>
+</footer><!-- #colophon -->
+
+
+<!-- AGREGAR JS -->
+<script>
+	
+(function (d, w) {
+	d.addEventListener("DOMContentLoaded", () => {
+
+		var width_ptn = window.innerWidth
+		var heigth_ptn = window.innerHeight
+
+		var div_page = document.querySelector('#page')
+		var alto_page = div_page.clientHeight
+
+		var div_footer = document.querySelector('.site-footer')
+		var alto_footer = div_footer.clientHeight
+
+		var scroll
+		var espacio
+
+		if ( heigth_ptn == alto_page) {
+			espacio = 10
+		}else{
+			espacio = alto_page - (heigth_ptn + alto_footer)
+		}
+
+		console.log(alto_page)
+		console.log(heigth_ptn)
+		console.log(alto_footer)
+		console.log(espacio)
+
+		var div_fixed = document.querySelector('.div_fixed')
+
+		function doble_boton(scroll){
+			// console.log(scroll)
+			if (scroll > espacio) {
+				console.log("esta activo")
+
+				div_fixed.classList.add('fixed_off')
+			} else{
+				div_fixed.classList.remove('fixed_off')
+			}
+			
+		}
+
+		function momentoScroll(){
+			scroll = window.scrollY
+
+			if (width_ptn < 731) {
+				doble_boton(scroll)
+			}
+		}
+
+		momentoScroll()
+
+
+		window.onscroll = function() {
+			// console.log("Vertical: " + window.scrollY);
+
+			momentoScroll()
+		};
+
+	})
+})(document, window)
+		
+
+</script>
+
+<!-- FIN JS -->
+
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

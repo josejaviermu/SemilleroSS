@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Busqueda en PardosChicken" skipped="0" tests="1" time="13.21" timestamp="2019-08-09 09:28:54"><testcase name="Busqueda de comida en Linio"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+pe.pardoschicken.testing.tasks.EntrarAPardosChicken.performAs(EntrarAPardosChicken.java:23)&#13;
+pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.botEntraAPardoschicken(BuscarEnPardosChickenStepdefinitons.java:36)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>

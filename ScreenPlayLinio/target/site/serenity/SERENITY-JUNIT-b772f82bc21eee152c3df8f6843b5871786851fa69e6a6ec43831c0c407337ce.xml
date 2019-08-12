@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Busqueda en Linio" skipped="0" tests="1" time="24.51" timestamp="2019-08-06 05:15:13"><testcase name="Tarea exitosa"><failure message="&#10;Expected: &quot;televisor&quot;&#10;     but: was &quot;Televisor TCL LED 32 pulgadas Smart TV H...&quot;" type="java.lang.AssertionError">
+Expected: "televisor"
+     but: was "Televisor TCL LED 32 pulgadas Smart TV H..."</failure><system-err>
+Expected: "televisor"
+     but: was "Televisor TCL LED 32 pulgadas Smart TV H..."&#13;
+mx.com.linio.testing.stepdefinitions.BuscarEnLinioEstepdefinitons.bot_valida_que_la_busqueda_contenga_la_palabra(BuscarEnLinioEstepdefinitons.java:63)&#13;
+✽.el valida que la busqueda contenga la palabra "televisor"(src/test/java/mx/com/linio/testing/feature/BuscarEnLinio.feature:11)&#13;
+</system-err></testcase></testsuite>

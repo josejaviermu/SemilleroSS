@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Busqueda de comida en PardosChicken</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/all.css">
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/v4-shims.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- JQuery-UI -->
+<link type="text/css" href="jqueryui/1.11.2-start/jquery-ui.min.css" rel="Stylesheet" />
+<script type="text/javascript" src="jqueryui/1.11.2-start/jquery-ui.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<!-- ImgPreview -->
+<script src="scripts/imgpreview.full.jquery.js" type="text/javascript"></script>
+</head>
+
+
+<body class="results-page">
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+        <span class="breadcrumbs">
+            <a href="index.html" class="breadcrumbs">Home</a>
+
+        > Busqueda de comida en PardosChicken
+        </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 10-08-2019 14:58</span>
+    <br style="clear:left"/>
+</div>
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Busqueda En Pardoschicken</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                    Como usuario de pardoschicken quiero ingresar a la p�gina web y ordenar un comida
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;"
+                                                                      href="ec3644e9342d32fe427f28bfa83a3084b3999493dbafdd95c2d0cbb278b71b7f.html">Tag
+                                    (tag)</a>
+                                </span>
+                            </p>
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;"
+                                                                      href="7c84dfbe89a938426d5fd1c2216c8330b90c5762570871a530082069f44fadca.html">Busquedaenpardoschicken
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></span>
+                            <span class="test-case-title">
+                                <span class="failing-color">
+                                    Busqueda de comida en PardosChicken
+                                        <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+
+
+    <div id="tablecontents">
+        <div>
+            <table class="step-table">
+                <tr class="step-titles">
+                    <th width="65">                        &nbsp;
+                    </th>
+
+                    <th width="%" class="step-description-column greentext">
+                        Steps
+                    </th>
+                    <th width="120" class="greentext">Screenshot</th>
+                    <th width="110" class="greentext">Outcome</th>
+                    <th width="80" class="greentext">Duration</th>
+                </tr>
+                <tr class="step-table-separator">
+                    <td colspan="5"></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        <a name="0"/>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection0')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection0 success-icon"
+                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
+                            </a>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection0')"
+                               style="display:block;">
+                            <span class="top-level-step">
+                                Given Bot entra a pardoschicken
+                            </span>
+                            </a>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=0">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         href="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
+                    <td width="100"><span class="top-level-step">8.72s</span></td>
+                </tr>
+                    <tr>
+                    <td colspan="5">
+                    <table id="stepSection0" style="display:none; width:100%">
+
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot opens the Pagina de inicio de pardos chicken
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=2">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         href="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">5.98s</span></td>
+                </tr>
+
+                    </table>
+                    </td>
+                    <tr>
+                <tr class="test-FAILURE">
+                    <td width="60" class="step-icon">
+                        <a name="1"/>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1 failure-icon"
+                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
+                            </a>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block;">
+                            <span class="top-level-step">
+                                When El busca una "pardos brasa" en la pagina
+                            </span>
+                            </a>
+
+                        </div>
+                    </td>
+                        <td width="100" class="FAILURE-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=4">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         href="62f79d11f2a0902b23d3bfaec3fa168b10140925a02b9a3002a4a05d5f37b3db.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">FAILURE</span></td>
+                    <td width="100"><span class="top-level-step">22.89s</span></td>
+                </tr>
+                    <tr>
+                    <td colspan="5">
+                    <table id="stepSection1" style="display:none; width:100%">
+
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot clicks on Botón Ordenar Aquí
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=5">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="9def6ffb8e2c227f825d0ca6d86c89ba34947c68d74c395455ecfefe90c9d412.png"
+                                         href="9def6ffb8e2c227f825d0ca6d86c89ba34947c68d74c395455ecfefe90c9d412.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">6.28s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot clicks on Escoger producto
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=7">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="515f55d130eab99bb36cbfcd15a2e1b3c18fa0dc316d939826184801d8a09ad6.png"
+                                         href="515f55d130eab99bb36cbfcd15a2e1b3c18fa0dc316d939826184801d8a09ad6.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">3.81s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot clicks on Botón Ordenar
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=9">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="ba450ec51735da44f84abbe62465168d1fab5d3b9e815a67a60fe33d9a7156f7.png"
+                                         href="ba450ec51735da44f84abbe62465168d1fab5d3b9e815a67a60fe33d9a7156f7.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">3.02s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot clicks on Botón Ordenar
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SUCCESS-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=11">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="b38484966bfdb89567b6e598c5333c32b993790f3cb9174fdd372b97871adc24.png"
+                                         href="b38484966bfdb89567b6e598c5333c32b993790f3cb9174fdd372b97871adc24.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">1.15s</span></td>
+                </tr>
+                <tr class="test-FAILURE">
+                    <td width="60" class="step-icon">
+                        
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="nested-group-step">
+                                bot clicks on Botón Ordenar
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="FAILURE-text">
+                                <a href="636bf5e847e4cfa699df73578cad20fea5eaf84283a61cbedde919416c9d9b7f_screenshots.html#screenshots?screenshot=13">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="85cf2343bc254fffefafa96b850ce9db7642d4af09d8392f2f8a49486b6f3091.png"
+                                         href="85cf2343bc254fffefafa96b850ce9db7642d4af09d8392f2f8a49486b6f3091.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">FAILURE</span></td>
+                    <td width="100"><span class="nested-group-step">7.71s</span></td>
+                </tr>
+                    <tr class="test-FAILURE">
+                        <td width="40">&nbsp</td>
+                        <td width="%" colspan="4" class="error-message-cell">
+
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Element should be enabled exception: Expected enabled element was not enabled</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-8""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-8">
+            <div class="card">
+                <div class="card-header">
+                    <h4>net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>pe.pardoschicken.testing.tasks.Ordenar.performAs(Ordenar.java:17)<br />pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.elBuscaUnaEnLaPagina(BuscarEnPardosChickenStepdefinitons.java:55)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />cucumber.runner.Runner.runPickle(Runner.java:80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)<br /></pre>
+                    </div>
+
+                    <h4>
+                        Caused by: org.openqa.selenium.TimeoutException
+                    </h4>
+                    <div>
+                            <pre>Expected condition failed: waiting for By.xpath: //a[@data-id='418b5210-ff25-11e8-9c64-2d46451cf10e'] to be enabled (tried for 5 second(s) with 100 milliseconds interval)</pre>
+                        <pre>pe.pardoschicken.testing.tasks.Ordenar.performAs(Ordenar.java :17)<br />pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.elBuscaUnaEnLaPagina(BuscarEnPardosChickenStepdefinitons.java :55)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java :-2)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java :62)<br />jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java :43)<br />cucumber.runner.Runner.runPickle(Runner.java :80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java :89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java :41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java :463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java :209)<br /></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                    </td>
+                    </tr>
+
+                    </table>
+                    </td>
+                    <tr>
+                <tr class="test-FAILURE">
+                    <td width="60" class="step-icon">
+                        <a name="2"/>
+                            <span style="margin-left: 20px; margin-right: 5px;"
+                                  class="top-level-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="top-level-step">
+                                Perform as: bot
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="FAILURE-text">
+                        </td>
+                    <td width="100"><span class="top-level-step">FAILURE</span></td>
+                    <td width="100"><span class="top-level-step">0.01s</span></td>
+                </tr>
+                    <tr class="test-FAILURE">
+                        <td width="40">&nbsp</td>
+                        <td width="%" colspan="4" class="error-message-cell">
+
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Element should be enabled exception: Expected enabled element was not enabled</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-9""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-9">
+            <div class="card">
+                <div class="card-header">
+                    <h4>net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>pe.pardoschicken.testing.tasks.Ordenar.performAs(Ordenar.java:17)<br />pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.elBuscaUnaEnLaPagina(BuscarEnPardosChickenStepdefinitons.java:55)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />cucumber.runner.Runner.runPickle(Runner.java:80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)<br /></pre>
+                    </div>
+
+                    <h4>
+                        Caused by: org.openqa.selenium.TimeoutException
+                    </h4>
+                    <div>
+                            <pre>Expected condition failed: waiting for By.xpath: //a[@data-id='418b5210-ff25-11e8-9c64-2d46451cf10e'] to be enabled (tried for 5 second(s) with 100 milliseconds interval)</pre>
+                        <pre>pe.pardoschicken.testing.tasks.Ordenar.performAs(Ordenar.java :17)<br />pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.elBuscaUnaEnLaPagina(BuscarEnPardosChickenStepdefinitons.java :55)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java :-2)<br />jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java :62)<br />jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java :43)<br />cucumber.runner.Runner.runPickle(Runner.java :80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java :89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java :41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java :463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java :209)<br /></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                    </td>
+                    </tr>
+                <tr class="test-SKIPPED">
+                    <td width="60" class="step-icon">
+                        <a name="3"/>
+                            <span style="margin-left: 20px; margin-right: 5px;"
+                                  class="top-level-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <span class="top-level-step">
+                                Then El verifica el resultado esperado
+                            </span>
+
+                        </div>
+                    </td>
+                        <td width="100" class="SKIPPED-text">
+                        </td>
+                    <td width="100"><span class="top-level-step">SKIPPED</span></td>
+                    <td width="100"><span class="top-level-step">0s</span></td>
+                </tr>
+                <tr class="test-FAILURE">
+                    <td colspan="3"></td>
+                    <td width="100"><span class="top-level-step"><em>FAILURE</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>45.7s</em></span></td>
+                </tr>
+
+            </table>
+        </div>
+    </div>
+    <div id="beforefooter"></div>
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <span class="version">Serenity BDD version 2.0.8</span>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        function toggleDiv(divId) {
+            $("#" + divId).toggle();
+            var imgsrc = $(".img" + divId).attr('src');
+            if (imgsrc == 'images/plus.png') {
+                $(".img" + divId).attr("src", function () {
+                    return "images/minus.png";
+                });
+
+            }
+            else {
+                $(".img" + divId).attr("src", function () {
+                    return "images/plus.png";
+                });
+            }
+        }
+    </script>
+
+
+    <script type="text/javascript">
+        //<![CDATA[
+
+        $(document).ready(function () {
+            $('img.screenshot').imgPreview({
+                imgCSS: {
+                    width: '500px'
+                },
+                distanceFromCursor: {top: 10, left: -200}
+            });
+        });
+
+        //]]>
+    </script>
+    <div id="imgPreviewContainer" style="position: absolute; top: 612px; left: 355px; display: none; " class=""><img
+            src="" style="display: none; "></div>
+    <div id="imgPreviewContainer2" style="position: absolute; top: 925px; left: 320px; display: none; " class="">
+        <img style="width: 200px; display: none; " src=""></div>
+    <div id="imgPreviewWithStyles" style="position: absolute; top: 1272px; left: 321px; display: none; " class="">
+        <img style="height: 200px; opacity: 1; display: none; " src=""></div>
+    <div id="imgPreviewWithStyles2" style="display: none; position: absolute; "><img style="height: 200px; "></div>
+    <div id="imgPreviewWithStyles3" style="display: none; position: absolute; "><img style="height: 200px; "></div>
+
+</body>
+</html>

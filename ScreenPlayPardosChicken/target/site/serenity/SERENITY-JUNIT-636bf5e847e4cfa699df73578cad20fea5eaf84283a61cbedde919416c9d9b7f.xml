@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Busqueda en PardosChicken" skipped="0" tests="1" time="45.7" timestamp="2019-08-10 02:58:26"><testcase name="Busqueda de comida en PardosChicken"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+pe.pardoschicken.testing.tasks.Ordenar.performAs(Ordenar.java:17)&#13;
+pe.pardoschicken.testing.stepdefinitions.BuscarEnPardosChickenStepdefinitons.elBuscaUnaEnLaPagina(BuscarEnPardosChickenStepdefinitons.java:55)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
